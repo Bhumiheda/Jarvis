@@ -7,7 +7,6 @@ Jarvis is a Python-based AI voice assistant that can perform various tasks using
 
 
 *Features*
-
 Web Automation: Open websites like YouTube, Google, and others via voice commands.
 
 News Updates: Fetch and read out the latest news.
@@ -20,7 +19,6 @@ Text-to-Speech (TTS): Converts responses into speech for user interaction.
 
 
 *Technologies Used*
-
 Python: Core programming language.
 
 SpeechRecognition: For converting voice input into text.
@@ -31,7 +29,6 @@ Webbrowser: Opening web pages using voice commands.
 
 
 *Usage*
-
 Run jarvis.py and speak your command when prompted.
 
 Say "Open YouTube" to launch YouTube.
@@ -42,7 +39,6 @@ Say "Give me the news" to get the latest updates.
 
 
 *Future Enhancements*
-
 Add integration with personal calendars and reminders.
 
 Implement AI-based responses using NLP.
