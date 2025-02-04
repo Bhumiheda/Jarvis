@@ -1,8 +1,10 @@
 **Jarvis - AI Voice Assistant**
 
 
+
 **Introduction**
 Jarvis is a Python-based AI voice assistant that can perform various tasks using voice commands. It is designed to simplify daily tasks such as fetching news, telling jokes, and opening YouTube or other websites, making it a useful digital assistant.
+
 
 
 **Features**
@@ -18,6 +20,7 @@ Voice Recognition: Understands and processes voice commands.
 Text-to-Speech (TTS): Converts responses into speech for user interaction.
 
 
+
 **Technologies Used**
 
 Python: Core programming language.
@@ -27,6 +30,7 @@ SpeechRecognition: For converting voice input into text.
 pyttsx3: Text-to-Speech conversion.
 
 Webbrowser: Opening web pages using voice commands.
+
 
 
 **Usage**
@@ -40,7 +44,9 @@ Say "Tell me a joke" to hear a joke.
 Say "Give me the news" to get the latest updates.
 
 
-*Future Enhancements*
+
+**Future Enhancements**
+
 Add integration with personal calendars and reminders.
 
 Implement AI-based responses using NLP.
