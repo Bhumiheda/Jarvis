@@ -14,7 +14,7 @@ class InfoFetcher():
         # Find the search box and enter the query
         search_box = self.driver.find_element(By.NAME, "search")  # Use By.NAME to locate the search input
         search_box.send_keys(self.query + Keys.RETURN)  # Press Enter after entering the query
-        #wait for the pafe to load
+        #wait for the page to load
         time.sleep(1500)
         #search=self.driver.find_element_by_xpath()
         # Optionally, you could add more code here to scrape results
